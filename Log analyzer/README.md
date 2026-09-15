@@ -44,6 +44,5 @@ log-level field.
 
 ## About this project
 
-Built with AI assistance as part of my Python learning.
 I am practicing file handling, regular expressions, command-line arguments,
 and Git version control.
